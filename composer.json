@@ -1,15 +1,15 @@
 {
-    "name": "olamedia/nokogiri",
+    "name": "censore/nokogiri",
     "type": "library",
     "description": "HTML Parser",
     "keywords": ["html","parse","parser"],
-    "homepage": "http://github.com/olamedia/nokogiri",
+    "homepage": "https://github.com/censore/nokogiri",
     "license": "MIT",
     "authors": [
         {
             "name": "olamedia",
             "email": "olamedia@gmail.com",
-            "homepage": "http://github.com/olamedia",
+            "homepage": "https://github.com/censore/nokogiri",
             "role": "Developer"
         }
     ],
