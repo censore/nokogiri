@@ -54,9 +54,3 @@ DOM
 libxml
 PHP
 
-Links<br />Ссылки
-============
-Статьи на хабре:
-
-* <a href="http://habrahabr.ru/blogs/php/110112/">Нокогири: парсинг HTML в одну строку</a>
-* <a href="http://habrahabr.ru/blogs/php/114323/">Сравнение библиотек для парсинга</a>
